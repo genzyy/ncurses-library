@@ -1,4 +1,4 @@
 all: hello
 
-hello: windows.cpp
-	g++ -lncurses windows.cpp -o hello
+hello: attr.cpp
+	g++ -lncurses attr.cpp -o hello
