@@ -1,4 +1,4 @@
 all: hello
 
-hello: attr.cpp
-	g++ -lncurses attr.cpp -o hello
+hello: input.cpp
+	g++ -lncurses input.cpp -o hello
