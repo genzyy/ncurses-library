@@ -25,3 +25,5 @@ int main()
     return 0;
 }
 // etc - editable text configuration files.
+// var - variables where lock files and app data are stored.
+// proc - running processes are stored.
