@@ -24,3 +24,4 @@ int main()
     cout << maxSum << endl;
     return 0;
 }
+// etc - editable text configuration files.
