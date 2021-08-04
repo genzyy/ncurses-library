@@ -13,3 +13,4 @@ int main() {
 }
 
 // can be used to count no of occurance of a word or words or characters in a string.
+// can store both key and value unlike set or unordered set which only stores key.
