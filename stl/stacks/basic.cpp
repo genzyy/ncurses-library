@@ -14,6 +14,7 @@ int main() {
     stack.push(21);
     stack.push(21);
     stack.push(21);
+  // empty() checks whether the stack is empty or not.
      while (!stack.empty()) {
        // top() returns the topmost element and can be printed using cout.
         cout << ' ' << stack.top();
